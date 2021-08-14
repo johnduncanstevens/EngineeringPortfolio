@@ -5,7 +5,7 @@ tagline: Engineering Portfolio
 email: stevens.jo@northeastern.edu
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/bulma-clean-theme"
+baseurl: "johnduncanstevens.github.io/engineeringportfolio/"
 url: "johnduncanstevens.github.io/engineeringportfolio/"
 permalink: pretty
 #favicon: /path/to/favicon.png
